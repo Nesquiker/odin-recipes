@@ -1,0 +1,32 @@
+
+* {
+	font-family: sans-serif, Helvetica;
+}
+
+img {
+	background: black;
+	width: 1500px;
+	height: auto;
+}
+h1,h2,h3,h4,h5,h6 {
+	background: purple;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+a {
+	background: blue;
+	color: red;
+
+}
+ul {
+	background: red;
+}
+ol {
+	background: red;
+}
+
+li {
+	background: black;
+	color: white;
+}
